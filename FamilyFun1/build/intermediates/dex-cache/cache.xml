@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidStudioWorkspace\FamilyFun1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\AndroidStudioWorkspace\FamilyFun1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_3ac0bd98890ed66ea0c50dd456eee6cdad29106d.jar" />
+    </item>
+    <item
+        jar="C:\Users\anchit-pc\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\AndroidStudioWorkspace\FamilyFun1\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_b9051cc69c53c757f22553f0ec71e641f42514d3.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkspace\FamilyFun1\app\libs\androidasync-1.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8dc7111050ee5f13a54b1206d47fee856159b2aa">
+        <dex dex="F:\AndroidStudioWorkspace\FamilyFun1\app\build\intermediates\pre-dexed\debug\androidasync-1.2.4_ac66aadfc30438c1ea3b3bcf286d87df97f25c8a.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkspace\FamilyFun1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\AndroidStudioWorkspace\FamilyFun1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_ab5c867b0329fee709e2df920e604977d15a5ab2.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\AndroidStudioWorkspace\FamilyFun1\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkspace\FamilyFun1\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="F:\AndroidStudioWorkspace\FamilyFun1\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_780875b888e2221f66c0f3439ffbdbedf3e80043.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkspace\FamilyFun1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\AndroidStudioWorkspace\FamilyFun1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_34d7c914f67e0be18b7b5d9665196b6255258c58.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioWorkspace\FamilyFun1\app\libs\ion-1.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="776baf5cac8eb4145dc0901254122cf956a784e3">
+        <dex dex="F:\AndroidStudioWorkspace\FamilyFun1\app\build\intermediates\pre-dexed\debug\ion-1.2.4_9b70f4e55a7109d8b8b4d4b0a53feea3b8013b56.jar" />
+    </item>
+
+</items>
